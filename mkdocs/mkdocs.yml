@@ -1,0 +1,5 @@
+site_name: hello-world docs
+theme: readthedocs
+pages:
+    - Home: index.md
+    - About: about.md
